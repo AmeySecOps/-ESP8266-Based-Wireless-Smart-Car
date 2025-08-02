@@ -30,7 +30,7 @@ Control your car 🚘 over Wi-Fi using the powerful ESP8266 module. Built for ho
 ---
 
 ## 📸 Preview
-<img src="assets/demo.gif" width="600"/>
+<img  src="D:\WIFI-CAR\CARPIC.jpeg" width="600"/>
 
 ---
 
