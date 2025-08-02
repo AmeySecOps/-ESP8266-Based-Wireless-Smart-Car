@@ -7,7 +7,7 @@ Control your car 🚘 over Wi-Fi using the powerful ESP8266 module. Built for ho
 
 ---
 
-![WiFiCar Banner]
+![WiFiCar Banner](https://github.com/AmeySecOps/-ESP8266-Based-Wireless-Smart-Car/blob/8adf6f6e5bda773ece1dbb8a3ca48fd4da2bc624/build/CARPIC.jpeg)
 <img src="D:\WIFI-CAR\CARPIC.jpeg" >
 
 ## 🔧 Features
